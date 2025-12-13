@@ -11,6 +11,14 @@
 ## Gloomy Rise
 ## Endless Rise
 ## Sacred Logistics
+<details><summary>Ошибка подключения по локальной сети в новом мире</summary>
+<img width="1280" height="179" alt="image" src="https://github.com/user-attachments/assets/36a8754f-a31c-49c3-b537-e690aec59ea7" />
+
+($${\color{green}{Решение}}$$): Необходимо хосту одному зайти в мир, немного там побегать (минуту или около того), а затем выйти
+
+После этого уже можно снова заходить и открывать мир для сети
+</details>
+
 ## Technology Valley
 ## Timeless Magic
 ## Classic Remake
