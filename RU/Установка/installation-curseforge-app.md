@@ -1,5 +1,6 @@
 # ⭐️ Установка сборки через приложение [CurseForge](https://www.curseforge.com/minecraft/search?page=1)
 #### :warning: Для данных способов нужна лицензия, если у вас её нет, вам [сюда](https://github.com/BMProjects-Development/FAQ/blob/main/RU/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0/installation-tlauncher.md)!
+#### :warning: В событиях текущих времён, вам возможно пригодится включить или отключить впн для процесса установки сборок
 ### ❗️Способ 1. Установка сборки скачиванием через приложение ($${\color{green}{Настоятельно \space рекомендуется}}$$)
 
 1. Скачиваем и устанавливаем приложение [CurseForge](https://www.curseforge.com/download/app) (standalone версия желательно, если вам не нужен Overwolf).
@@ -22,6 +23,7 @@
 2. Кидаем этот архив в окно CurseForge или нажимаем импорт *(лучше нажимать импорт)*
 3. Ждём пока скачается
 4. Играем!
+
 
 
 
