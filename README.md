@@ -2,6 +2,7 @@
 
  <details><summary>⚠️ Таблица соответствия версий Java и Minecraft ⚠️</summary> 
 Небольшая ремарка, просто установить джаву недостаточно, нужно её еще выбрать в вашем лаунчере
+  
 | Версия Minecraft | Рекомендуемая Java | Ссылка на скачивание |
 | :--- | :--- | :--- |
 | **1.20.5 — 1.21.x+** | Java 21 | [Adoptium Temurin 21](https://adoptium.net/temurin/releases/?version=21) |
