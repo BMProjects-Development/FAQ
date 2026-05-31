@@ -3,7 +3,8 @@
 В данном репозитории находятся наши переводы сборок, а также инструкции по их установке! 🔮 
 
 ## ❗️Список переведенных сборок
-- [StoneBlock 4](https://github.com/BMProjects-Development/BMP-Modpacks-Translations/tree/main/StoneBlock%204)
+- [StoneBlock 4](https://github.com/BMProjects-Development/StoneBlock-4-Translations)
+- [Divine Journey 2](https://github.com/BMProjects-Development/Divine-Journey-2-Translate)
 
 ## ❗️Дополнительные проекты
 - BMP-Translations - ресурспак с переводом множества модов (постоянно обновляется) [CurseForge](https://www.curseforge.com/minecraft/texture-packs/bmp-translations) | [Modrinth](https://modrinth.com/resourcepack/bmp-translations) 
